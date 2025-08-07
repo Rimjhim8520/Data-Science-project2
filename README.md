@@ -33,7 +33,7 @@ The project accurately predicted sales using historical data and machine learnin
 
 🧠 Learnings :
 
-Handling imbalanced datasets Visualizing fraud patterns Model selection and evaluation
+Learned data preprocessing, feature engineering, and model building to forecast sales. Gained experience in analyzing trends, evaluating model accuracy, and applying machine learning to solve real-world business problems.
 
 🔗 How to Run :
 
